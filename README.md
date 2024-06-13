@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihir Madkaikar</h1>
 <h3 align="center">A passionate Python, Pinescript Coder and Trader from India</h3>
 
-- 🔭 I’m currently working on **Integrating various Trading Indicators in Pinescript**
+- 🔭 I’m currently working on **Making Fundamnetal Analysis automation**
 
 - 🌱 I’m currently learning **Trading, Pinescript**
 
